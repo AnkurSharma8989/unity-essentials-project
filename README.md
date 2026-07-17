@@ -1,6 +1,7 @@
 # Unity Essentials Project
 
 This repository contains my work from the Unity Learn **Unity Essentials Pathway**.
+
 Play on - https://play.unity.com/api/v1/games/game/b608a68c-3358-41a9-b80b-958ea74033bf/build/latest/frame
 
 ## Topics Covered
